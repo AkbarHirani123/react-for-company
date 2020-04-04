@@ -1,13 +1,9 @@
 .pd {
-  padding: 2.5em 0 1.5em 0;
-}
+  padding: 2.5em 0 1.5em 0; }
 
 .answer {
   margin-top: 10px !important;
-  color: gray;
-}
+  color: gray; }
 
 .columns {
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-}
+  flex-wrap: wrap; }
